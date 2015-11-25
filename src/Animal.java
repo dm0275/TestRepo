@@ -4,4 +4,5 @@
 public class Animal
 {
     String test;
+    double test;
 }
