@@ -3,7 +3,7 @@
  */
 public class Animal
 {
-    String test;
+    String test1;
     double test;
     int number;
 }
